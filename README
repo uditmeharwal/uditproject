@@ -1,1 +1,10 @@
-Instructions
+                                                                    ------>Instructions<--------
+
+1> install nord.js and vs code in your PC
+2> Download folder (uditproject) in your pc 
+3> Open this folder in VS code editor 
+4> This folder contain frontend and Backend files 
+5> install all the essential modules using (npm i) command 
+6> The config folder contain database related files . modify the link of database according to your mongodb. 
+7> run the project by command --> npm run dev
+                       
